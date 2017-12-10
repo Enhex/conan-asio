@@ -6,7 +6,7 @@ class AsioConan(ConanFile):
 	name = "Asio"
 	version = "master"
 	license = "Boost Software License - Version 1.0"
-	url = "<Package recipe repository url here, for issues about the package>"
+	url = "https://github.com/Enhex/conan-asio"
 	description = "Asio is a cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach."
 	# No settings/options are necessary, this is header only
 
