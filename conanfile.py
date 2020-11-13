@@ -3,7 +3,7 @@ import os
 
 
 class AsioConan(ConanFile):
-	name = "Asio"
+	name = "asio"
 	version = "master"
 	license = "Boost Software License - Version 1.0"
 	url = "https://github.com/Enhex/conan-asio"
